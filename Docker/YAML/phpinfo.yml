@@ -13,6 +13,6 @@ services:
           cpus: "0.06"
           memory: 60M
     ports:
-      - "80:80"
+      - "90:80"
 networks:
   frontend:
