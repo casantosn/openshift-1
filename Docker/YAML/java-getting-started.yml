@@ -1,8 +1,8 @@
-version: '3'
+version: '2'
 services:
   web:
-    image: java-getting-started 
+    image: java-getting-started2 
     ports:
       - 88:5000
-    container_name: java-getting-started
+    container_name: java-getting-started2
 #curl http://localhost && echo
